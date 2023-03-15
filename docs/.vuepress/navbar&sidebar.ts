@@ -2,7 +2,6 @@ import {navbar, sidebar} from "vuepress-theme-hope";
 
 export const bar = [
     "/",
-    "/notes/日记/日记",
     {
         text: "学习笔记",
         icon: "note",

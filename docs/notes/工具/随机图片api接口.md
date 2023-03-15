@@ -6,6 +6,7 @@ category:
   - 工具
 tag:
   - 随机图片api
+star: true
 ---
 
 > 本文转自：https://blog.csdn.net/likepoems/article/details/123924270
